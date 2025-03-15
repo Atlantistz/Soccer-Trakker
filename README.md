@@ -1,2 +1,2 @@
 # Soccer-Trakker
-A powerful tool for football video clipping.
+A Powerful AI Tool For Football Video Tracking.
